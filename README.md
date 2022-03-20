@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Alos3122222/Alos3122222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DOT/DOT SERis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
